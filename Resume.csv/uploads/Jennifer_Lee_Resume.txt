@@ -1,0 +1,51 @@
+
+JENNIFER LEE
+============
+
+CONTACT INFORMATION
+Email: jennifer.lee@email.com
+Phone: +1-555-690-1882
+LinkedIn: linkedin.com/in/jenniferlee
+
+PROFESSIONAL SUMMARY
+Experienced data scientist with 3 years of experience in SQL, BERT, Hugging Face. Passionate about creating innovative solutions and driving business value through technology.
+
+SKILLS
+Technical Skills: Python, Natural Language Processing, SpaCy, BERT, Hugging Face, SQL
+Programming Languages: Natural Language Processing, SpaCy, SQL, Python, Hugging Face
+Frameworks & Tools: Python, SQL, SpaCy, BERT
+
+EXPERIENCE
+
+Senior ML Engineer | Tech Company Inc.
+2022 - Present
+• Developed and maintained data pipelines using SpaCy
+• Collaborated with cross-functional teams to deliver high-quality software solutions
+• Implemented agile methodologies to improve development efficiency
+• Mentored junior developers and conducted code reviews
+
+Data Analyst | Startup XYZ
+2020 - 2022
+• Built REST APIs using SpaCy
+• Analyzed large datasets and provided actionable insights
+• Participated in architecture discussions meetings
+
+EDUCATION
+Master of Science in Computational Linguistics | University of Technology
+2018 - 2021
+• GPA: 3.94
+• Relevant Coursework: SpaCy, Python, Hugging Face
+
+PROJECTS
+• Machine Learning Model: Built using Natural Language Processing
+• Mobile App: Developed with Python
+
+CERTIFICATIONS
+• AWS Certified Developer Certification
+• Scrum Master Certification
+
+LANGUAGES
+English (Native), Spanish (Intermediate), French (Basic)
+
+INTERESTS
+Web Development

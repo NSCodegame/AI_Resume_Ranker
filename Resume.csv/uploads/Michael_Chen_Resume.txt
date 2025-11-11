@@ -1,0 +1,51 @@
+
+MICHAEL CHEN
+============
+
+CONTACT INFORMATION
+Email: michael.chen@email.com
+Phone: +1-555-209-7547
+LinkedIn: linkedin.com/in/michaelchen
+
+PROFESSIONAL SUMMARY
+Experienced full-stack developer with 7 years of experience in PostgreSQL, Git, Java. Passionate about creating innovative solutions and driving business value through technology.
+
+SKILLS
+Technical Skills: Java, Spring Boot, Microservices, Kubernetes, PostgreSQL, Git
+Programming Languages: Spring Boot, Microservices, Java, Kubernetes, Git
+Frameworks & Tools: PostgreSQL, Java, Git, Kubernetes
+
+EXPERIENCE
+
+Senior ML Engineer | Tech Company Inc.
+2018 - Present
+• Developed and maintained machine learning models using Kubernetes
+• Collaborated with cross-functional teams to deliver high-quality software solutions
+• Implemented CI/CD pipelines to improve development efficiency
+• Mentored junior developers and conducted code reviews
+
+Developer | Startup XYZ
+2016 - 2018
+• Built data visualization dashboards using Kubernetes
+• Analyzed large datasets and provided actionable insights
+• Participated in technical design meetings
+
+EDUCATION
+Master of Engineering in Computer Science | University of Technology
+2014 - 2017
+• GPA: 3.53
+• Relevant Coursework: Git, PostgreSQL, Kubernetes
+
+PROJECTS
+• Machine Learning Model: Built using Microservices
+• API Service: Developed with PostgreSQL
+
+CERTIFICATIONS
+• Microsoft Azure Certification
+• Product Owner Certification
+
+LANGUAGES
+English (Native), Spanish (Intermediate), French (Basic)
+
+INTERESTS
+Data Science

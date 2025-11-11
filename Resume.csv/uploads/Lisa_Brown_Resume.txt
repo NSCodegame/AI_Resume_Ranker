@@ -1,0 +1,51 @@
+
+LISA BROWN
+==========
+
+CONTACT INFORMATION
+Email: lisa.brown@email.com
+Phone: +1-555-142-4077
+LinkedIn: linkedin.com/in/lisabrown
+
+PROFESSIONAL SUMMARY
+Experienced software engineer with 2 years of experience in Data Science, Tableau, Scikit-learn. Passionate about creating innovative solutions and driving business value through technology.
+
+SKILLS
+Technical Skills: Python, Data Science, Scikit-learn, SQL, Tableau, Excel
+Programming Languages: SQL, Python, Data Science, Tableau, Excel
+Frameworks & Tools: Excel, Python, Data Science, Tableau
+
+EXPERIENCE
+
+Senior Software Engineer | Tech Company Inc.
+2023 - Present
+• Developed and maintained machine learning models using Excel
+• Collaborated with cross-functional teams to deliver high-quality software solutions
+• Implemented agile methodologies to improve development efficiency
+• Mentored junior developers and conducted code reviews
+
+Developer | Startup XYZ
+2021 - 2023
+• Built REST APIs using SQL
+• Analyzed large datasets and provided actionable insights
+• Participated in architecture discussions meetings
+
+EDUCATION
+Master of Science in Data Science | University of Technology
+2019 - 2022
+• GPA: 3.09
+• Relevant Coursework: Tableau, Scikit-learn, Data Science
+
+PROJECTS
+• Machine Learning Model: Built using Tableau
+• API Service: Developed with Tableau
+
+CERTIFICATIONS
+• AWS Certified Developer Certification
+• Scrum Master Certification
+
+LANGUAGES
+English (Native), Spanish (Intermediate), French (Basic)
+
+INTERESTS
+Web Development

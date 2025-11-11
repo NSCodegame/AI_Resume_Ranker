@@ -1,0 +1,51 @@
+
+DAVID WILSON
+============
+
+CONTACT INFORMATION
+Email: david.wilson@email.com
+Phone: +1-555-476-8156
+LinkedIn: linkedin.com/in/davidwilson
+
+PROFESSIONAL SUMMARY
+Experienced machine learning engineer with 6 years of experience in Linux, Git, C++. Passionate about creating innovative solutions and driving business value through technology.
+
+SKILLS
+Technical Skills: C++, Data Structures, Algorithms, System Design, Linux, Git
+Programming Languages: Git, Data Structures, Linux, C++, Algorithms
+Frameworks & Tools: C++, Data Structures, Git, Algorithms
+
+EXPERIENCE
+
+Senior Data Scientist | Tech Company Inc.
+2019 - Present
+• Developed and maintained web applications using System Design
+• Collaborated with cross-functional teams to deliver high-quality software solutions
+• Implemented automated testing to improve development efficiency
+• Mentored junior developers and conducted code reviews
+
+Developer | Startup XYZ
+2017 - 2019
+• Built automation scripts using Algorithms
+• Analyzed large datasets and provided actionable insights
+• Participated in sprint planning meetings
+
+EDUCATION
+Bachelor of Science in Computer Science | University of Technology
+2015 - 2018
+• GPA: 3.22
+• Relevant Coursework: Data Structures, System Design, Git
+
+PROJECTS
+• E-commerce Platform: Built using Git
+• Web Application: Developed with Git
+
+CERTIFICATIONS
+• Microsoft Azure Certification
+• Scrum Master Certification
+
+LANGUAGES
+English (Native), Spanish (Intermediate), French (Basic)
+
+INTERESTS
+Web Development
