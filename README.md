@@ -1,7 +1,5 @@
 # AI_Resume_Ranker
 
-This file provides guidance to WARP (warp.dev) when working with code in this repository.
-
 ## Project Overview
 
 This is an AI-powered resume ranking system built with Flask that uses NLP techniques to match resumes against job descriptions. The system implements a custom TF-IDF vectorization and cosine similarity algorithm without using spaCy or scikit-learn's built-in vectorizers.
