@@ -1,0 +1,128 @@
+SAMPLE JOB DESCRIPTIONS
+==================================================
+
+JOB TITLE: Senior Python Developer
+------------------------------
+DESCRIPTION:
+
+We are seeking a Senior Python Developer to join our dynamic team. The ideal candidate will have strong experience in Python development, web frameworks, and database management.
+
+Key Responsibilities:
+• Develop and maintain scalable web applications using Python
+• Work with frameworks like Django or Flask
+• Design and implement RESTful APIs
+• Collaborate with cross-functional teams
+• Mentor junior developers
+• Participate in code reviews and technical discussions
+
+Required Skills:
+• 5+ years of experience in Python development
+• Strong knowledge of web frameworks (Django/Flask)
+• Experience with SQL databases (PostgreSQL, MySQL)
+• Familiarity with version control systems (Git)
+• Understanding of RESTful API design
+• Experience with cloud platforms (AWS, Azure, GCP)
+• Knowledge of containerization (Docker)
+
+Preferred Skills:
+• Experience with microservices architecture
+• Knowledge of CI/CD pipelines
+• Familiarity with Agile methodologies
+• Experience with NoSQL databases
+• Understanding of DevOps practices
+            
+KEYWORDS:
+  Python: 2.0
+  Django: 1.5
+  Flask: 1.5
+  REST APIs: 1.5
+  SQL: 1.5
+  Git: 1.0
+  AWS: 1.0
+  Docker: 1.0
+  5 years: 1.5
+
+==================================================
+
+JOB TITLE: Machine Learning Engineer
+------------------------------
+DESCRIPTION:
+
+We are looking for a talented Machine Learning Engineer to join our AI team. The successful candidate will develop and deploy machine learning models to solve complex business problems.
+
+Key Responsibilities:
+• Develop and implement machine learning models
+• Preprocess and analyze large datasets
+• Deploy models to production environments
+• Collaborate with data scientists and engineers
+• Optimize model performance and accuracy
+• Stay updated with latest ML technologies
+
+Required Skills:
+• 3+ years of experience in machine learning
+• Proficiency in Python and ML libraries (TensorFlow, PyTorch, Scikit-learn)
+• Experience with data preprocessing and feature engineering
+• Knowledge of statistical analysis and modeling
+• Familiarity with cloud platforms for ML deployment
+• Understanding of model evaluation metrics
+
+Preferred Skills:
+• Experience with deep learning frameworks
+• Knowledge of MLOps and model deployment
+• Familiarity with big data technologies (Spark, Hadoop)
+• Experience with computer vision or NLP
+• Understanding of model interpretability techniques
+            
+KEYWORDS:
+  Machine Learning: 2.0
+  Python: 1.5
+  TensorFlow: 1.5
+  PyTorch: 1.5
+  Scikit-learn: 1.5
+  Deep Learning: 1.0
+  Data Analysis: 1.0
+  3 years: 1.0
+
+==================================================
+
+JOB TITLE: Full Stack Developer
+------------------------------
+DESCRIPTION:
+
+We are seeking a Full Stack Developer to build and maintain web applications. The ideal candidate will have experience with both frontend and backend technologies.
+
+Key Responsibilities:
+• Develop responsive web applications
+• Build and maintain RESTful APIs
+• Work with modern JavaScript frameworks
+• Design and implement database schemas
+• Collaborate with UI/UX designers
+• Ensure code quality and performance
+
+Required Skills:
+• 4+ years of full stack development experience
+• Proficiency in JavaScript/TypeScript
+• Experience with React, Angular, or Vue.js
+• Knowledge of Node.js and backend frameworks
+• Familiarity with SQL and NoSQL databases
+• Understanding of web security best practices
+
+Preferred Skills:
+• Experience with cloud platforms (AWS, Azure)
+• Knowledge of containerization (Docker, Kubernetes)
+• Familiarity with CI/CD pipelines
+• Experience with GraphQL
+• Understanding of microservices architecture
+            
+KEYWORDS:
+  JavaScript: 2.0
+  React: 1.5
+  Angular: 1.5
+  Node.js: 1.5
+  Full Stack: 1.5
+  REST APIs: 1.0
+  SQL: 1.0
+  4 years: 1.0
+
+==================================================
+
